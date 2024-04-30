@@ -1,5 +1,5 @@
 server:
-  port: 7947
+  port: 9999
 spring:
   datasource:
     url: jdbc:mysql://monorail.proxy.rlwy.net:33622/railway?allowPublicKeyRetrieval=true&useSSL=false
